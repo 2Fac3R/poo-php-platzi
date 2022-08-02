@@ -11,12 +11,12 @@ class Post
         $this->comments[] = $comment;
     }
 
-    public function countComments() : int
+    public function countComments(): int
     {
         return count($this->comments);
     }
 
-    public function getComments() : array
+    public function getComments(): array
     {
         return $this->comments;
     }

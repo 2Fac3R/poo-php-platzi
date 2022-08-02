@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":286:{a:2:{s:7:"defects";a:3:{s:34:"PostTest::test_add_comment_to_post";i:4;s:22:"CalculatorTest::testXD";i:4;s:23:"CalculatorTest::test_XD";i:4;}s:5:"times";a:3:{s:34:"PostTest::test_add_comment_to_post";d:0.005;s:22:"CalculatorTest::testXD";d:0.004;s:23:"CalculatorTest::test_XD";d:0.003;}}}
+{"version":1,"defects":[],"times":{"PostTest::test_add_comment_to_post":0.006}}
