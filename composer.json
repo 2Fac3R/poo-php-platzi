@@ -1,6 +1,6 @@
 {
   "name": "genr/poo",
-  "description": "Proyecto de OOP",
+  "description": "Curso de Programación Orientada a Objetos en PHP",
   "autoload": {
     "psr-4": {
       "App\\": "src/"
